@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1644489910 source:/home/amirhossein/Documents/Projects/C-Programming/1toNprinter/main.c
+	<stdio.h>
+	<stdlib.h>
+

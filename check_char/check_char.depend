@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1644487320 source:/home/amirhossein/Documents/Projects/C-Programming/check_char/main.c
+	<stdio.h>
+	<stdlib.h>
+

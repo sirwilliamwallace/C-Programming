@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1644390885 source:/home/amirhossein/Documents/Projects/C-Programming/AddNumbers/main.c
+	<stdio.h>
+	<stdlib.h>
+

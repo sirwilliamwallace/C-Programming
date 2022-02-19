@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1644529590 source:/home/amirhossein/Documents/Projects/C-Programming/sameModIntegers/main.c
+	<stdio.h>
+	<stdlib.h>
+
